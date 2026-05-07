@@ -17,26 +17,6 @@ Made by **LEEJUNHO** (2026)
 
 ---
 
-## 🚀 배포 방법
-
-단일 HTML 파일로 구성되어 있어 배포가 매우 간단합니다!
-
-### GitHub Pages (추천)
-1. GitHub Repository 생성
-2. `pubg-map-v26.5.7.html`을 `index.html`로 이름 변경
-3. Repository에 업로드
-4. Settings → Pages → Source를 `main` 브랜치로 설정
-
-### Netlify
-1. netlify.com 접속
-2. HTML 파일을 드래그 앤 드롭
-
-### Vercel
-1. vercel.com 접속
-2. GitHub Repository 연동
-
----
-
 ## 📐 좌표계
 
 - **1 unit = 1m** (예: x:100, y:100 = 100m 지점)
