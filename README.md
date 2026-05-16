@@ -1,4 +1,4 @@
-# PUBG Interactive Map v26.5.7
+# PUBG Interactive Map v26.5.17
 
 **PUBG 배틀그라운드 인터랙티브 맵 도구**
 
